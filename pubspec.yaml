@@ -45,8 +45,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/logo_png.png
-    - assets/images/mask_group_5.png
+    - assets/images/background.png
     - assets/images/price_image.png
     - assets/images/filter_rafiki.png
     - assets/images/mobile_payments.png

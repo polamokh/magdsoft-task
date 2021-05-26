@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:magdsoft_task/slider_page.dart';
-import 'package:magdsoft_task/splash_page.dart';
 
 void main() {
   runApp(MyApp());

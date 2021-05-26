@@ -13,7 +13,7 @@ abstract class BackgroundPage extends StatelessWidget {
                   fit: orientation == Orientation.portrait
                       ? BoxFit.fill
                       : BoxFit.cover,
-                  image: AssetImage('assets/images/mask_group_5.png')),
+                  image: AssetImage('assets/images/background.png')),
             ),
             child: buildContent(context));
       },
